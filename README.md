@@ -8,3 +8,4 @@ This terraform project covers the following basic scripts to deploy resources in
   5. Using Provisioners
   6. Workspaces and state file creation for each
   7. Using Terraform with Vault for Secrets
+# Terraform-Basic-Project-2
